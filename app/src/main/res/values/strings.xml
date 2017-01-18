@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment02Task</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="textdisplay">TextView</string>
+
+</resources>
